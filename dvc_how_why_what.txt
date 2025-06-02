@@ -1,0 +1,29 @@
+# DVC_END_TO_END
+This Repo has all the information about DVC for MlOps
+
+===========================================
+why DVC ?????????
+
+Pipeline of Mlops
+1. Data Ingestion
+2. Data Validation & Processing
+3. Model Training
+4. Model Evaluation
+5. Model Versioning
+6. Model Deployment
+7. Monitoring & Feedback Loop
+
+DVC (Data Version Control) is an open-source version control system for machine learning projects. 
+
+It helps manage:
+>>>Data files (datasets, large files),
+>>>Machine learning models (binary output),
+>>>>Experiments, and
+>>>>>pipelines in a Git-like manner.
+>>>> data versioning and rollbacks to old versions
+
+=========================================
+How it works????????????
+
+It works alongside Git but is optimized for large files and data science workflows.
+
